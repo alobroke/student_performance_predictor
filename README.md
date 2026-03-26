@@ -157,7 +157,7 @@ http://127.0.0.1:5000/
 * Add model explainability (SHAP, LIME)
 * Deploy on AWS Elastic Beanstalk
 * Add user authentication
-* Improve UI/UX
+* Improve UI
 * Integrate database for predictions
 
 ---
